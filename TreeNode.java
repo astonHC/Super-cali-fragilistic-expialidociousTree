@@ -1,3 +1,7 @@
+// COPYRIGHT (C) HARRY CLARK 2025
+
+// CS2_DSA TREE CASE STUDY
+
 public class TreeNode 
 {
     public int DATA;
